@@ -13,21 +13,8 @@ The **SB-OG Series** aims to:
 ## 🌍 Websites Built in the SB-OG Series
 
 - **SB-OG 1** => [See live](#)
-  - **Description**: An original website designed with interactive elements, responsive layout, and smooth transitions.
   
 - **SB-OG 2** => [See live](https://sb-og-2.netlify.app/)
-
-- **SB-OG 3** => [See live](#)
-  - **Description**: A website built with clean code, optimized for performance, and featuring dynamic animations for an engaging experience.
-
-- **SB-OG 4** => [See live](#)
-  - **Description**: A professional website with a focus on visual storytelling, incorporating custom animations and fluid interactions.
-
-- **SB-OG 5** => [See live](#)
-  - **Description**: A polished, responsive website showcasing a fictional product, designed with a modern aesthetic and easy-to-navigate layout.
-
-- **SB-OG 6** => [See live](#)
-  - **Description**: A simple yet elegant website focused on UI/UX principles, optimized for various screen sizes.
 
 ## 🚀 Getting Started
 
