@@ -12,7 +12,7 @@ The **SB-OG Series** aims to:
 
 ## 🌍 Websites Built in the SB-OG Series
 
-- **SB-OG 1** => [See live](#)
+- **SB-OG 1** => [See live](https://sb-og-1.netlify.app/)
   
 - **SB-OG 2** => [See live](https://sb-og-2.netlify.app/)
 
