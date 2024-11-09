@@ -1,4 +1,4 @@
-# 🌐 SB-OG Series: Building Websites from Scratch by Shiva Bajpai
+# 🌐 SB-OG Series: Building Websites like Never Seen Before.
 
 Welcome to the **SB-OG Series**, where I challenge myself to **build websites from scratch** using modern web development techniques. This series features a collection of original websites designed and developed to showcase clean, responsive, and interactive user interfaces.
 
